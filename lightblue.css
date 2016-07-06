@@ -1,0 +1,19 @@
+﻿body {
+    background-color: #55CBFE;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size:110%;
+}
+main{
+    margin: auto;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+ul{
+    list-style-type: none;
+    text-align:center;
+}
+li::first-letter{
+    font-size: 180%;
+}
+

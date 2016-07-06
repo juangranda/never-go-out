@@ -1,0 +1,23 @@
+﻿body {
+    background-color: #5B7FBD;
+    font-family: Verdana;
+    padding-top: 0px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    font-size:120%;
+}
+
+p{
+    font-weight:lighter;
+}
+ul{
+    list-style-position: inside;
+}
+.centered{
+    text-align:center;
+}
+.copyright{
+    font-size:80%;
+    font-style:italic;
+}
