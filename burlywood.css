@@ -1,44 +1,42 @@
 ﻿body {
         background-color: #E2AC7F;
-    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-family: Verdana;
+    font-size:11px;
 }
 main{
-    border: 5px dotted;
-    margin-top: 0px;
+    border: 4px dotted;
+    /*margin-top: 0px;
     margin-bottom: 0px;
-    margin-right: 300px;
-    margin-left: 300px;
+    margin-right: 180px;
+    margin-left: 180px;*/
+    width: 488px;
+    margin-left: auto;
+    margin-right:auto;
     background-color: #F5F5DC;
 }
 h1{
     text-align:center;
     font-style:italic;
     font-family:Impact;
-    border-bottom: 5px dotted;
+    border-bottom: 4px dotted;
     margin-top: 0px;
-    font-size:250%
+    font-size:28px;
 }
 ul{
     list-style-type: none;
     text-align:center;
     font-style:italic;
-    margin-top:0px;
-    line-height:20px;
 }
 li::first-letter{
     font-size: 150%;
 }
 p{
-    margin-top:20px;
-    margin-left:20px;
-    margin-right:20px;
-    margin-bottom:20px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:15px;
+    margin-right:10px;
+    font-family: Verdana;
     font-size: 95%;
-    line-height:18px;
 }
 ul {
-    font-family:Verdana;
 }
 .copyright{
     text-align:center;

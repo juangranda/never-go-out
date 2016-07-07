@@ -3,17 +3,17 @@
             font-family:Arial;
 }
 main{
-    margin-top:-20px;
+    margin-top:-10px;
 }
 nav {
     float:left;
     width:200px;
-    height:480px;
-    margin-left:95px;
+    height:488px;
+    margin-left:55px;
     margin-bottom:0%;
     text-align:center;
     background-color:#B0CEFE;
-    padding-top:25px
+    padding-top:10px;
 }
 nav ul{
     list-style-position: inside;
@@ -24,26 +24,24 @@ article ul{
     list-style-position: inside;
     text-align:center;
     list-style-type: none;
-    font-size:110%;
 }
 
 article{
+    float: left;
     background-color:#5B7FBC;
     /*float:right;*/
-    width:880px;
-    height:475px;
-    margin-left:295px;
-    padding-top:30px;
-    padding-right:40px;
-    padding-left:40px;
+    width:480px;
+    margin-left:0px;
+    padding-right:20px;
+    padding-left:20px;
 
 }
 h1{
     text-align:center;
-    font-size:250%;
+    font-size:200%;
 }
 p{
-    font-size:110%;
+    text-align:center;
 }
 p.copyright{
     text-align:center;

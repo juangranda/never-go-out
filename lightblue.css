@@ -1,7 +1,6 @@
 ﻿body {
     background-color: #55CBFE;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-    font-size:110%;
+    font-family: sans-serif;
 }
 main{
     margin: auto;
@@ -14,6 +13,6 @@ ul{
     text-align:center;
 }
 li::first-letter{
-    font-size: 180%;
+    font-size: 155%;
 }
 
